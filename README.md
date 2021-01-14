@@ -1,2 +1,2 @@
-# searchBitbucket
-Simple script to find interesting strings in unsecured Bitbucket repos
+S3_ACCESS_KEY=AKIAIUS47YTJOI6TZXBQ
+S3_ACCESS_SECRET=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
